@@ -1,3 +1,6 @@
+## GroupID-30 (22114003_22114039_22114071) - Akshat Alya, Ishaan Jain, Preeti Karnwal
+## Date: October 29,2025
+## gif_generator.py : Generates GIFs demonstrating the steps of the Hertel–Mehlhorn algorithm for convex decomposition of simple polygons.
 import matplotlib.pyplot as plt
 import imageio
 import os

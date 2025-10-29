@@ -1,4 +1,6 @@
-
+## GroupID-30 (22114003_22114039_22114071) - Akshat Alya, Ishaan Jain, Preeti Karnwal
+## Date: October 29,2025
+## cp2.py : Implementation of the Hertel–Mehlhorn algorithm for convex decomposition of simple polygons with an interactive visualizer.
 import random
 import math
 import matplotlib.pyplot as plt
